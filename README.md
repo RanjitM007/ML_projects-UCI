@@ -9,6 +9,10 @@ Trying to cover all the Data_set from  UCI MACHINARY
 - [@RANJIT_MAITY](https://www.github.com/RanjitM007)
 
 
+## DATASET LINK
+-[@UCI_Machinary](https://archive.ics.uci.edu/ml/index.php)
+
+
 ## Appendix
 
 Trying to cover  all the dataset 
