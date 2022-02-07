@@ -10,7 +10,7 @@ Trying to cover all the Data_set from  UCI MACHINARY
 
 
 ## DATASET LINK
--[@UCI_Machinary](https://archive.ics.uci.edu/ml/index.php)
+- [@UCI_Machinary](https://archive.ics.uci.edu/ml/index.php)
 
 
 ## Appendix
